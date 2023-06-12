@@ -17,6 +17,7 @@ public class halo {
         String kelas = "4D Reguler BJB Pagi";
         String jurusan = "Teknik Informatika";
         String ttl  = "Barikin, 19 Februari 2003";
+        String hobi = "Menggambar";
         
         System.out.println("==========================");
         System.out.println("\t BIODATA");
@@ -26,6 +27,8 @@ public class halo {
         System.out.println("Kelas \t\t\t : "+kelas);
         System.out.println("Jurusan \t\t : "+jurusan);
         System.out.println("Tempat Tanggal Lahir \t : "+ttl);
+        System.out.println("Hobi \t\t\t : "+hobi);
         System.out.println("==========================");
+        
     }
 }
